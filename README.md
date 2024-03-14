@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 <h2 align="center">Hi 👋, I'm Udayan</h2>
 <h4 align="center">A passionate aspiring software developer from India</h4>
 
